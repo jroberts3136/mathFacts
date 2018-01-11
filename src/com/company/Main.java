@@ -13,8 +13,10 @@ public class Main {
             "Press 5 to play\n" +
             "Press 6 to pause\n" +
             "Press 7 for next track\n" +
-            "Press 8 for last track");
+            "Press 8 for last track\n" +
+            "Press anything else to end the program");
 
         Scanner input = new Scanner(System.in);
+
     }
 }
