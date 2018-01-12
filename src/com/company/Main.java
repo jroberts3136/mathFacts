@@ -17,6 +17,7 @@ public class Main {
             "Press anything else to end the program");
 
         Scanner input = new Scanner(System.in);
+        MusicMan theMusicMan = new MusicMan();
 
     }
 }
